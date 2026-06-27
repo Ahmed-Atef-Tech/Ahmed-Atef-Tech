@@ -28,34 +28,6 @@ contact     : ahmed.atef.tech@gmail.com
 
 ---
 
-## 🖥️ PCB Design Expertise
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    PCB DESIGN WORKFLOW                          │
-├──────────────┬──────────────┬──────────────┬────────────────────┤
-│  SCHEMATIC   │  PCB LAYOUT  │    DFM/DFA   │    PRODUCTION      │
-│  CAPTURE     │              │              │                    │
-│  ─────────   │  ─────────   │  ─────────   │  ─────────         │
-│  KiCad       │  Routing     │  Design Rule │  Gerber Export     │
-│  Altium      │  Stack-up    │  Check (DRC) │  BOM Generation    │
-│  Eagle       │  Impedance   │  Fab Review  │  Assembly Files    │
-│  LTspice     │  Control     │  Thermal Sim │  Bring-up & Test   │
-└──────────────┴──────────────┴──────────────┴────────────────────┘
-```
-
-### ⚡ PCB Specializations
-
-| Domain | Technologies | Experience |
-|--------|-------------|------------|
-| 🔌 **Power Electronics** | Isolated AC control, SSR, MOSFETs, 220V/8A | High-current PCBs with 2oz copper |
-| 📡 **RF & Wireless** | Antenna matching, RF transceivers, IoT nodes | Sub-GHz & 2.4GHz boards |
-| 🤖 **Motor Control** | BLDC drivers, H-bridge, encoder feedback | Robotics & automation |
-| 🧠 **Embedded Systems** | STM32, ESP32, ATmega, custom MCU boards | Full firmware stack |
-| 📊 **Sensor Interfaces** | ADC front-ends, signal conditioning, shielding | Mixed-signal boards |
-| 🔋 **Power Management** | LDO, DC-DC converters, battery management | Multi-rail power supplies |
-
----
 
 ## 🛠️ Tools & Stack
 
