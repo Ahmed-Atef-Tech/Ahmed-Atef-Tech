@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5C0&center=true&vCenter=true&width=700&height=80&lines=Ahmed+Atef+%E2%80%94+PCB+Designer;R%26D+Hardware+Engineer+%E2%9A%A1;From+Schematic+to+PCBA+%F0%9F%94%A7;Electronics+Product+Development)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5C0&center=true&vCenter=true&width=700&height=80&lines=Ahmed+Atef+%E2%80%94+PCB+Designer;R%26D+Hardware+Engineer;From+Schematic+to+PCBA;Electronics+Product+Development)
 
 <img src="https://komarev.com/ghpvc/?username=Ahmed-Atef-Tech&color=00e5c0&style=for-the-badge&label=Profile+Views" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-00e5c0?style=for-the-badge&logo=checkmarx&logoColor=black" />
@@ -10,11 +10,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> About Me
 
 ```yaml
 name        : Ahmed Atef
-location    : Cairo, Egypt 🇪🇬
+location    : Cairo, Egypt
 role        : R&D Hardware Engineer & PCB Designer
 expertise   : [ PCB Layout, Schematic Capture, PCBA, Signal Integrity, RF Design ]
 tools       : [ KiCad, Altium Designer, Eagle, LTspice, Fusion 360 ]
@@ -24,14 +24,14 @@ portfolio   : https://ahmedatef.tech
 contact     : ahmed.atef.tech@gmail.com
 ```
 
-> 🔧 I take electronics from concept to production — schematic capture, PCB layout, design for manufacturability (DFM), and full PCBA bring-up. Specialized in **high-current power electronics**, **RF/wireless nodes**, **motor control**, and **embedded MCU boards**.
+> <img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff" width="20" height="20" align="absmiddle" /> I take electronics from concept to production — schematic capture, PCB layout, design for manufacturability (DFM), and full PCBA bring-up. Specialized in **high-current power electronics**, **RF/wireless nodes**, **motor control**, and **embedded MCU boards**.
 
 ---
 
 
-## 🛠️ Tools & Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Tools & Stack
 
-### 🖥️ PCB & Hardware EDA
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%2358a6ff" width="20" height="20" align="absmiddle" /> PCB & Hardware EDA
 <p>
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logoColor=white"/>
@@ -40,7 +40,7 @@ contact     : ahmed.atef.tech@gmail.com
   <img src="https://img.shields.io/badge/SPICE_Sim-FF6600?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🤖 Embedded & Firmware
+### <img src="https://api.iconify.design/lucide/microchip.svg?color=%2358a6ff" width="20" height="20" align="absmiddle" /> Embedded & Firmware
 <p>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
@@ -49,14 +49,14 @@ contact     : ahmed.atef.tech@gmail.com
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### 🎨 3D & Mechanical
+### <img src="https://api.iconify.design/lucide/box.svg?color=%2358a6ff" width="20" height="20" align="absmiddle" /> 3D & Mechanical
 <p>
   <img src="https://img.shields.io/badge/Fusion_360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
-### 💻 Software & Scripting
+### <img src="https://api.iconify.design/lucide/terminal.svg?color=%2358a6ff" width="20" height="20" align="absmiddle" /> Software & Scripting
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
@@ -66,7 +66,7 @@ contact     : ahmed.atef.tech@gmail.com
 
 ---
 
-## 🚀 Featured PCB Projects
+## <img src="https://api.iconify.design/lucide/star.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Featured PCB Projects
 
 <div align="center">
 
@@ -81,7 +81,7 @@ contact     : ahmed.atef.tech@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Atef-Tech&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=00e5c0&icon_color=00e5c0&title_color=00e5c0&text_color=f5f5f5&count_private=true" />
@@ -94,7 +94,7 @@ contact     : ahmed.atef.tech@gmail.com
 
 ---
 
-## 📬 Connect With Me
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%2358a6ff" width="24" height="24" align="absmiddle" /> Connect With Me
 
 <div align="center">
 
@@ -116,6 +116,6 @@ contact     : ahmed.atef.tech@gmail.com
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Ahmed-Atef-Tech/Ahmed-Atef-Tech/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-**⚡ PCB Designer · R&D Hardware Engineer · Cairo, Egypt 🇪🇬**
+**<img src="https://api.iconify.design/lucide/zap.svg?color=%2358a6ff" width="18" height="18" align="absmiddle" /> PCB Designer · R&D Hardware Engineer · Cairo, Egypt**
 
 </div>
