@@ -3,7 +3,6 @@
 ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00E5C0&center=true&vCenter=true&width=700&height=80&lines=Ahmed+Atef+%E2%80%94+PCB+Designer;R%26D+Hardware+Engineer;From+Schematic+to+PCBA;Building+Machines%3A+3D+Printers+%26+CNC)
 
 <img src="https://komarev.com/ghpvc/?username=Ahmed-Atef-Tech&color=00e5c0&style=for-the-badge&label=Profile+Views" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-00e5c0?style=for-the-badge&logo=checkmarx&logoColor=black" />
 <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-%23FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
@@ -20,8 +19,7 @@ electronics : [ PCB Layout, Schematic Capture, PCBA, Power Electronics, Motor Co
 mechanical  : [ Sheet Metal Design, FDM 3D Printing, Pneumatic Systems, Machine Building ]
 tools       : [ KiCad, Altium Designer, LTspice, SolidWorks ]
 experience  : [ 2-Layer → 4-Layer → Multi-Layer PCBs ]
-currently   : Open to Work — Full-time / Freelance
-portfolio   : https://ahmedatef.tech
+portfolio   : https://ahmed-atef-tech.github.io
 contact     : ahmed.atef.tech@gmail.com
 ```
 
